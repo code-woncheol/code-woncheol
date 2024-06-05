@@ -66,7 +66,7 @@ The purpose of this project is to provide students with real-time status of menu
 - UX/UI構想
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
-<p>私のプロジェクトについてもっと知りたい方は<ahref="https://github.com/code-woncheol ">GitHub</a>を訪問してください。</p>
+<p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/code-woncheol">GitHub</a>を訪問してください。</p>
   </details>
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
