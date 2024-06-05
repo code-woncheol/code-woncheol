@@ -4,7 +4,7 @@
 
 <details>
   <summary>English</summary>
-  <h2>Hello, I'm Woncheol</h2>
+  <h2>Hello I'm Woncheol, and I am a new developer who likes new technology and communication with my teammates.</h2>
   <p>A passionate new developer eager to make an impact.</p>
   <img src="./woncheol.jpg" alt="Profile Picture" width="200">
   <p>You can find more about my projects on <a href="https://github.com/code-woncheol">GitHub</a>.</p>
@@ -30,7 +30,7 @@
 
 <details>
   <summary>日本語</summary>
-  <h2>こんにちは、私はウォンチョルです</h2>
+  <h2>新しい技術が好きで、チームメンバーとのコミュニケーションが好きな新人開発者のウォンチョルです</h2>
   <p>影響を与えたい情熱的な新しい開発者です。</p>
   <img src="./woncheol.jpg" alt="プロフィール写真" width="200">
   <p>私のプロジェクトについてもっと知りたい場合は、<a href="https://github.com/code-woncheol">GitHub</a>をご覧ください。</p>
@@ -56,7 +56,7 @@
 
 <details>
   <summary>한국어</summary>
-  <h2>안녕하세요, 저는 원철입니다</h2>
+  <h2>새로운 기술을 좋아하고 팀원과 소통을 좋아하는 신입 개발자 원철입니다</h2>
   <p>열정적인 신입 개발자로서 변화를 만들어내고 싶습니다.</p>
   <img src="./woncheol.jpg" alt="프로필 사진" width="200">
   <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/code-woncheol">GitHub</a>를 방문해 주세요.</p>
