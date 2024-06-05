@@ -11,11 +11,11 @@
   <h3>Tech Stack</h3>
   <h4>Front-end Skills</h4>
   <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>React</li>
-  </ul>
+  <li><img src="./img/html5.png" width="15"> HTML5</li>
+  <li><img src="./img/css3.png" width="15"> CSS3</li>
+  <li><img src="./img/js.png" width="15"> JavaScript</li>
+  <li><img src="./img/reactjs.png" width="15"> React</li>
+</ul>
   <h4>Back-end Skills</h4>
   <ul>
     <li>MySQL</li>
@@ -37,11 +37,11 @@
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
   <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>React</li>
-  </ul>
+  <li><img src="./img/html5.png" width="15"> HTML5</li>
+  <li><img src="./img/css3.png" width="15"> CSS3</li>
+  <li><img src="./img/js.png" width="15"> JavaScript</li>
+  <li><img src="./img/reactjs.png" width="15"> React</li>
+</ul>
   <h4>バックエンドスキル</h4>
   <ul>
     <li>MySQL</li>
@@ -63,11 +63,11 @@
   <h3>기술 스택</h3>
   <h4>프론트엔드 기술</h4>
   <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>React</li>
-  </ul>
+  <li><img src="./img/html5.png" width="15"> HTML5</li>
+  <li><img src="./img/css3.png" width="15"> CSS3</li>
+  <li><img src="./img/js.png" width="15"> JavaScript</li>
+  <li><img src="./img/reactjs.png" width="15"> React</li>
+</ul>
   <h4>백엔드 기술</h4>
   <ul>
     <li>MySQL</li>
