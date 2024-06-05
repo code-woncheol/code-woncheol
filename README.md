@@ -6,8 +6,8 @@
   <summary>English</summary>
   <h2>Hello, I'm Woncheol</h2>
   <p>A passionate new developer eager to make an impact.</p>
-  <img src="https://example.com/my-image.jpg" alt="Profile Picture" width="200">
-  <p>You can find more about my projects on <a href="https://github.com/woncheol">GitHub</a>.</p>
+  <img src="./woncheol.jpg" alt="Profile Picture" width="200">
+  <p>You can find more about my projects on <a href="https://github.com/code-woncheol">GitHub</a>.</p>
   <h3>Tech Stack</h3>
   <h4>Front-end Skills</h4>
   <ul>
@@ -32,8 +32,8 @@
   <summary>日本語</summary>
   <h2>こんにちは、私はウォンチョルです</h2>
   <p>影響を与えたい情熱的な新しい開発者です。</p>
-  <img src="https://example.com/my-image.jpg" alt="プロフィール写真" width="200">
-  <p>私のプロジェクトについてもっと知りたい場合は、<a href="https://github.com/woncheol">GitHub</a>をご覧ください。</p>
+  <img src="./woncheol.jpg" alt="プロフィール写真" width="200">
+  <p>私のプロジェクトについてもっと知りたい場合は、<a href="https://github.com/code-woncheol">GitHub</a>をご覧ください。</p>
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
   <ul>
@@ -58,8 +58,8 @@
   <summary>한국어</summary>
   <h2>안녕하세요, 저는 원철입니다</h2>
   <p>열정적인 신입 개발자로서 변화를 만들어내고 싶습니다.</p>
-  <img src="https://example.com/my-image.jpg" alt="프로필 사진" width="200">
-  <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/woncheol">GitHub</a>를 방문해 주세요.</p>
+  <img src="./woncheol.jpg" alt="프로필 사진" width="200">
+  <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/code-woncheol">GitHub</a>를 방문해 주세요.</p>
   <h3>기술 스택</h3>
   <h4>프론트엔드 기술</h4>
   <ul>
