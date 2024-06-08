@@ -10,7 +10,7 @@
  <details>
     <summary>Project</summary>
 
-# MATJUDA(School restaurant menu information service)
+# MATJUDA(School restaurant menu information service) <a href="https://matjuda.github.io/">Go To APP</a>
 
 ## Overview and Role
 
@@ -53,7 +53,7 @@ The purpose of this project is to provide students with real-time status of menu
   <details>
     <summary>プロジェクト</summary>
 
-# MATJUDA(校内食堂メニュー情報提供サービス)
+# MATJUDA(校内食堂メニュー情報提供サービス) <a href="https://matjuda.github.io/">アクセス</a>
 
 ## 概要と役割
 
@@ -97,7 +97,7 @@ The purpose of this project is to provide students with real-time status of menu
   <details>
     <summary>프로젝트</summary>
 
-# MATJUDA(학교 내 식당 메뉴 정보 제공 서비스)
+# MATJUDA(학교 내 식당 메뉴 정보 제공 서비스) <a href="https://matjuda.github.io/">방문하기</a>
 
 ## 개요 및 역할
 
