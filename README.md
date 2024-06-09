@@ -23,7 +23,7 @@ The purpose of this project is to provide students with real-time status of menu
 - UX/UI design
 - FE (Manage, maintain and build components using React)
 - Manage and maintain the entire project
- <p>If you would like to know more about my project, please visit <a href="https://github.com/code-woncheol">GitHub</a>.</p>
+ <p>If you would like to know more about my project, please visit <a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>.</p>
  
   <h3>Tech Stack</h3>
   <h4>Front-end Skills</h4>
@@ -66,7 +66,7 @@ The purpose of this project is to provide students with real-time status of menu
 - UX/UI構想
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
-<p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/code-woncheol">GitHub</a>を訪問してください。</p>
+<p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>を訪問してください。</p>
  
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
@@ -109,7 +109,7 @@ The purpose of this project is to provide students with real-time status of menu
 - UX/UI 구상
 - FE(React를 사용하여 컴포넌트 관리, 유지 및 제작)
 - 전체 프로젝트 관리 및 유지
- <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/code-woncheol">GitHub</a>를 방문해 주세요.</p>   
+ <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>를 방문해 주세요.</p>   
   
   <h3>기술 스택</h3>
   <h4>프론트엔드 기술</h4>
