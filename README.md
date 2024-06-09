@@ -7,8 +7,8 @@
   <h2>I'm Woncheol, a developer with a lot of ideas and who everyone wants to get to know</h2>
   <p>A passionate new developer eager to make an impact.</p>
   <img src="./img/woncheol.jpg" alt="Profile Picture" width="200">
- <details>
-    <summary>Project</summary>
+ 
+# PROJECT
 
 # MATJUDA(School restaurant menu information service) <a href="http://ec2-13-209-8-57.ap-northeast-2.compute.amazonaws.com/">Go To APP</a>
 
@@ -24,7 +24,7 @@ The purpose of this project is to provide students with real-time status of menu
 - FE (Manage, maintain and build components using React)
 - Manage and maintain the entire project
  <p>If you would like to know more about my project, please visit <a href="https://github.com/code-woncheol">GitHub</a>.</p>
-  </details>
+ 
   <h3>Tech Stack</h3>
   <h4>Front-end Skills</h4>
   <ul>
@@ -50,8 +50,8 @@ The purpose of this project is to provide students with real-time status of menu
   <h2>アイデアの多い親しくなりたい開発者、ウォンチョルです</h2>
   <p>影響を与えたい情熱的な新しい開発者です。</p>
   <img src="./img/woncheol.jpg" alt="プロフィール写真" width="200">
-  <details>
-    <summary>プロジェクト</summary>
+ 
+# プロジェクト
 
 # MATJUDA(校内食堂メニュー情報提供サービス) <a href="http://ec2-13-209-8-57.ap-northeast-2.compute.amazonaws.com/">アクセス</a>
 
@@ -67,7 +67,7 @@ The purpose of this project is to provide students with real-time status of menu
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
 <p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/code-woncheol">GitHub</a>を訪問してください。</p>
-  </details>
+ 
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
   <ul>
@@ -94,8 +94,7 @@ The purpose of this project is to provide students with real-time status of menu
   <p>열정적인 신입 개발자로서 변화를 만들어내고 싶습니다.</p>
   <img src="./img/woncheol.jpg" alt="프로필 사진" width="200">
 
-  <details>
-    <summary>프로젝트</summary>
+# 프로젝트
 
 # MATJUDA(학교 내 식당 메뉴 정보 제공 서비스) <a href="http://ec2-13-209-8-57.ap-northeast-2.compute.amazonaws.com/">방문하기</a>
 
@@ -111,8 +110,7 @@ The purpose of this project is to provide students with real-time status of menu
 - FE(React를 사용하여 컴포넌트 관리, 유지 및 제작)
 - 전체 프로젝트 관리 및 유지
  <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/code-woncheol">GitHub</a>를 방문해 주세요.</p>   
-  </details>
-
+  
   <h3>기술 스택</h3>
   <h4>프론트엔드 기술</h4>
   <ul>
