@@ -74,7 +74,20 @@ Leading Idea Meetings
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
 <p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>を訪問してください。</p>
- 
+
+ # Green Hero(子供のための環境保護教育ウェブサービス) <a href="">訪問(サイトアップロード予定)</a>
+
+## 概要および役割
+
+### 概要
+このプロジェクトの目的は、子供たちに簡単なゲーム形式で環境保護に関する情報を提供するウェブサービスです。
+
+### 私の役目
+- 分別収集&植樹コンテンツ担当
+- コンテンツ共同機能の実装
+
+ <p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/code-woncheol/2024Capstonedesign-GreenHero">GitHub</a>を訪問してください。</p>
+   
   <h3>技術スタック</h3>
   <h4>フロントエンドスキル</h4>
   <ul>
@@ -125,7 +138,20 @@ Leading Idea Meetings
 - FE(React를 사용하여 컴포넌트 관리, 유지 및 제작)
 - 전체 프로젝트 관리 및 유지
  <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>를 방문해 주세요.</p>   
-  
+ 
+# GreenHero(어린이를 위한 환경 보호 교육 웹서비스) <a href="">방문하기(사이트 업로드 예정)</a>
+
+## 개요 및 역할
+
+### 개요
+이 프로젝트의 목적은 어린이들에게 간단한 게임 형식으로 환경 보호에 관한 정보를 제공하는 웹 서비스입니다.
+
+### 나의 역할
+- 분리수거 & 나무 심기 콘텐츠 담당
+- 콘텐츠 공동 기능 구현
+
+ <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/code-woncheol/2024Capstonedesign-GreenHero">GitHub</a>를 방문해 주세요.</p>   
+
   <h3>기술 스택</h3>
   <h4>프론트엔드 기술</h4>
   <ul>
