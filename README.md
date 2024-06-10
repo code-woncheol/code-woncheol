@@ -43,6 +43,13 @@ The purpose of this project is to provide students with real-time status of menu
     <li>GitHub</li>
     <li>VS Code</li>
   </ul>
+
+  ### Activities other than development relations
+
+  ## Yeonpick
+  <p>Leading participation in the entire process, including video content planning, filming, appearing, editing, and distribution
+Leading Idea Meetings 
+<a href="https://www.instagram.com/reel/CrAwFb5BjqL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Related video</a></p>
 </details>
 
 <details>
@@ -86,6 +93,14 @@ The purpose of this project is to provide students with real-time status of menu
     <li>GitHub</li>
     <li>VS Code</li>
   </ul>
+
+  ### 開発関係以外の活動
+
+  ## Yeonpick
+  <p>動画コンテンツの企画、撮影、出演、編集、配布など全ての過程で主導的に参加
+アイデア会議主導 
+<a href="https://www.instagram.com/reel/CrAwFb5BjqL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">関連映像</a></p>
+  
 </details>
 
 <details>
@@ -129,4 +144,11 @@ The purpose of this project is to provide students with real-time status of menu
     <li>GitHub</li>
     <li>VS Code</li>
   </ul>
+
+### 개발 관련 이외의 활동
+
+  ## Yeonpick
+  <p>동영상 콘텐츠 기획, 촬영, 출연, 편집, 배포 등 전 과정 주도적 참여
+아이디어 회의 주도 
+<a href="https://www.instagram.com/reel/CrAwFb5BjqL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">관련 영상</a></p>
 </details>
