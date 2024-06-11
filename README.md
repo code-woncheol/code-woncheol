@@ -19,10 +19,10 @@ The purpose of this project is to provide students with real-time status of menu
 
 ### My role
 - Providing project suggestions and ideas
-- Designing user and administrator processes
-- UX/UI design
+- User and administrator process and DB design- UX/UI design
 - FE (Manage, maintain and build components using React)
 - Manage and maintain the entire project
+- Arduino programming and production
  <p>If you would like to know more about my project, please visit <a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>.</p>
  
   <h3>Tech Stack</h3>
@@ -69,10 +69,11 @@ Leading Idea Meetings
 
 ### 私の役目
 - プロジェクト提案及びアイデア提供
-- ユーザーおよび管理者プロセス構想
+- ユーザーおよび管理者プロセスおよびDB構想
 - UX/UI構想
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
+- Arduinoプログラミングおよび製作
 <p>私のプロジェクトについてもっと知りたい方は<a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>を訪問してください。</p>
 
  # Green Hero(子供のための環境保護教育ウェブサービス) <a href="">訪問(サイトアップロード予定)</a>
@@ -133,9 +134,10 @@ Leading Idea Meetings
 
 ### 나의 역할
 - 프로젝트 제안 및 아이디어 제공
-- 유저 및 관리자 프로세스 구상
+- 유저 및 관리자 프로세스 및 DB 구상
 - UX/UI 구상
 - FE(React를 사용하여 컴포넌트 관리, 유지 및 제작)
+- Arduino 프로그래밍 및 제작
 - 전체 프로젝트 관리 및 유지
  <p>제 프로젝트에 대해 더 알고 싶으시면 <a href="https://github.com/MATJUDA/MATJUDA">GitHub</a>를 방문해 주세요.</p>   
  
