@@ -71,7 +71,9 @@ Leading Idea Meetings
 
 https://github.com/code-woncheol/code-woncheol/assets/133950720/c24cc6c2-6b4b-439b-b8a5-4aed888b0178
 
+https://github.com/user-attachments/assets/25758fb7-4ccb-4778-ac3e-7ab97d6a407f
 
+実際の大学学生食堂に設置した様子
 
 ## 概要と役割
 
@@ -140,6 +142,12 @@ https://github.com/code-woncheol/code-woncheol/assets/133950720/c24cc6c2-6b4b-43
 
 
 https://github.com/code-woncheol/code-woncheol/assets/133950720/0264dd88-3f38-4b6f-a51c-f542442a8913
+
+
+https://github.com/user-attachments/assets/25758fb7-4ccb-4778-ac3e-7ab97d6a407f
+
+
+실제 대학 학생식당에 설치한 모습
 
 
 ## 개요 및 역할
