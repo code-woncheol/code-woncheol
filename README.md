@@ -83,6 +83,7 @@ https://github.com/user-attachments/assets/25758fb7-4ccb-4778-ac3e-7ab97d6a407f
 ### 私の役目
 - プロジェクト提案及びアイデア提供
 - ユーザーおよび管理者プロセスおよびDB構想
+- 学生食堂の管理者側との協業及びミーティング
 - UX/UI構想
 - FE(Reactを使用してコンポーネントの管理、維持、および製作)
 - プロジェクト全体の管理と維持
@@ -158,6 +159,7 @@ https://github.com/user-attachments/assets/25758fb7-4ccb-4778-ac3e-7ab97d6a407f
 ### 나의 역할
 - 프로젝트 제안 및 아이디어 제공
 - 유저 및 관리자 프로세스 및 DB 구상
+- 학생 식당 관리자측과 협업 및 미팅
 - UX/UI 구상
 - FE(React를 사용하여 컴포넌트 관리, 유지 및 제작)
 - Arduino 프로그래밍 및 제작
