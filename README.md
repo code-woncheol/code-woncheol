@@ -10,7 +10,7 @@
  
 # PROJECT
 
-# MATJUDA(School restaurant menu information service) <a href="http://ec2-52-79-52-146.ap-northeast-2.compute.amazonaws.com">Go To APP</a>
+# MATJUDA(School restaurant menu information service) <a href="http://matjuda.shop">Go To APP</a>
 
 
 
@@ -65,7 +65,7 @@ Leading Idea Meetings
  
 # プロジェクト
 
-# MATJUDA(校内食堂メニュー情報提供サービス) <a href="http://ec2-52-79-52-146.ap-northeast-2.compute.amazonaws.com">アクセス</a>
+# MATJUDA(校内食堂メニュー情報提供サービス) <a href="http://matjuda.shop">アクセス</a>
 
 
 
@@ -139,7 +139,7 @@ https://github.com/user-attachments/assets/25758fb7-4ccb-4778-ac3e-7ab97d6a407f
 
 # 프로젝트
 
-# MATJUDA(학교 내 식당 메뉴 정보 제공 서비스) <a href="http://ec2-52-79-52-146.ap-northeast-2.compute.amazonaws.com">방문하기</a>
+# MATJUDA(학교 내 식당 메뉴 정보 제공 서비스) <a href="http://matjuda.shop">방문하기</a>
 
 
 https://github.com/code-woncheol/code-woncheol/assets/133950720/0264dd88-3f38-4b6f-a51c-f542442a8913
